@@ -1,5 +1,10 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        suma(1, 2, 3);
+    }
+    public static int suma(int Num1, int Num2, int Num3) {
+        int Total = Num1 + Num2 + Num3;
+        System.out.println(Total);
+        return Total;
     }
 }
