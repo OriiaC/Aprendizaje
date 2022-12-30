@@ -1,0 +1,17 @@
+button.button:hover {
+    color:white;
+    background-color: green;
+}
+button.button:active {
+    background-color: blue;
+}
+
+button.button:visited {
+    color: red;
+    content: "Hola";
+}
+
+
+/* No entendi como cambiar el texto al darle click, estuve invetigando
+y decian que es con JS y pues como no hemos visto eso supongo que no 
+es de esa manera, asi que no se como hacerlo. */
