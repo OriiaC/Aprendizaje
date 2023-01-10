@@ -1,3 +1,7 @@
+-- Crea una base de datos
+CREATE DATABASE employees;
+-- Elimina una base de datos
+DROP DATABASE employees;
 -- Crea una tabla
 CREATE TABLE IF NOT EXISTS employeesPrueba (
 	id SERIAL PRIMARY KEY,
