@@ -1,5 +1,6 @@
 -- Crea una base de datos
 CREATE DATABASE employees;
+CREATE DATABASE pagila
 -- Elimina una base de datos
 DROP DATABASE employees;
 -- Crea una tabla
@@ -19,11 +20,17 @@ ALTER TABLE IF EXISTS employeesPrueba_2023 RENAME TO employeesPrueba
 ALTER TABLE employeesPrueba ADD COLUMN email VARCHAR(100)
 --Borrar columna
 ALTER TABLE employeesPrueba DROP COLUMN email
---Ver datos de una tabla
-Select * FROM employeesPrueba
+--Ver columnas de una tabla
+Select email FROM employeesPrueba
+--Ver filas de una tabla
+SELECT * FROM employeesPrueba WHERE id = 1
 --Insertar datos en una tabla
 INSERT INTO employeesPrueba
 		(name, start_at, genre, salary, email, married, birth_date)
 VALUES 	('Ferney', '08:00:00', 'M', 1370000, 'edison.agudelo@hotmail.com', FALSE, '1976-04-26')
+--Borrar Filas de una tabla
+DELETE FROM employees WHERE married = TRUE;
+DELETE FROM employees WHERE salary < 33000;
+DELETE FROM employees WHERE salary IS NULL;
 --Borrar tabla
 DROP TABLE IF EXISTS employeesPrueba

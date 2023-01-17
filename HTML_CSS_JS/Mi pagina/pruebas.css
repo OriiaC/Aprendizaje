@@ -1,0 +1,22 @@
+html {
+    width: 100%;
+    height: 100%;
+    background-color: #F2F2F2;
+}
+
+div#nav {
+    display: flex;
+    justify-content: center;
+}
+
+nav#menu    {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: blue;
+    width: 98%;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #314E59;  
+    
+}
