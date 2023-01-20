@@ -1,0 +1,15 @@
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\4. Bucles I\Ejercicio2 - Do while\Ejercicio2 - Do while\bin\Debug\net6.0\Ejercicio2 - Do while.exe
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\4. Bucles I\Ejercicio2 - Do while\Ejercicio2 - Do while\bin\Debug\net6.0\Ejercicio2 - Do while.deps.json
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\4. Bucles I\Ejercicio2 - Do while\Ejercicio2 - Do while\bin\Debug\net6.0\Ejercicio2 - Do while.runtimeconfig.json
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\4. Bucles I\Ejercicio2 - Do while\Ejercicio2 - Do while\bin\Debug\net6.0\Ejercicio2 - Do while.dll
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\4. Bucles I\Ejercicio2 - Do while\Ejercicio2 - Do while\bin\Debug\net6.0\Ejercicio2 - Do while.pdb
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\4. Bucles I\Ejercicio2 - Do while\Ejercicio2 - Do while\obj\Debug\net6.0\Ejercicio2 - Do while.csproj.AssemblyReference.cache
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\4. Bucles I\Ejercicio2 - Do while\Ejercicio2 - Do while\obj\Debug\net6.0\Ejercicio2 - Do while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\4. Bucles I\Ejercicio2 - Do while\Ejercicio2 - Do while\obj\Debug\net6.0\Ejercicio2 - Do while.AssemblyInfoInputs.cache
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\4. Bucles I\Ejercicio2 - Do while\Ejercicio2 - Do while\obj\Debug\net6.0\Ejercicio2 - Do while.AssemblyInfo.cs
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\4. Bucles I\Ejercicio2 - Do while\Ejercicio2 - Do while\obj\Debug\net6.0\Ejercicio2 - Do while.csproj.CoreCompileInputs.cache
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\4. Bucles I\Ejercicio2 - Do while\Ejercicio2 - Do while\obj\Debug\net6.0\Ejercicio2 - Do while.dll
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\4. Bucles I\Ejercicio2 - Do while\Ejercicio2 - Do while\obj\Debug\net6.0\refint\Ejercicio2 - Do while.dll
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\4. Bucles I\Ejercicio2 - Do while\Ejercicio2 - Do while\obj\Debug\net6.0\Ejercicio2 - Do while.pdb
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\4. Bucles I\Ejercicio2 - Do while\Ejercicio2 - Do while\obj\Debug\net6.0\Ejercicio2 - Do while.genruntimeconfig.cache
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\4. Bucles I\Ejercicio2 - Do while\Ejercicio2 - Do while\obj\Debug\net6.0\ref\Ejercicio2 - Do while.dll
