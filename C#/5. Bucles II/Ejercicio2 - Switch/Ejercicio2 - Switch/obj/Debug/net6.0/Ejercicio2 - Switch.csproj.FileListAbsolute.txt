@@ -1,0 +1,15 @@
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio2 - Switch\Ejercicio2 - Switch\bin\Debug\net6.0\Ejercicio2 - Switch.exe
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio2 - Switch\Ejercicio2 - Switch\bin\Debug\net6.0\Ejercicio2 - Switch.deps.json
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio2 - Switch\Ejercicio2 - Switch\bin\Debug\net6.0\Ejercicio2 - Switch.runtimeconfig.json
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio2 - Switch\Ejercicio2 - Switch\bin\Debug\net6.0\Ejercicio2 - Switch.dll
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio2 - Switch\Ejercicio2 - Switch\bin\Debug\net6.0\Ejercicio2 - Switch.pdb
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio2 - Switch\Ejercicio2 - Switch\obj\Debug\net6.0\Ejercicio2 - Switch.csproj.AssemblyReference.cache
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio2 - Switch\Ejercicio2 - Switch\obj\Debug\net6.0\Ejercicio2 - Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio2 - Switch\Ejercicio2 - Switch\obj\Debug\net6.0\Ejercicio2 - Switch.AssemblyInfoInputs.cache
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio2 - Switch\Ejercicio2 - Switch\obj\Debug\net6.0\Ejercicio2 - Switch.AssemblyInfo.cs
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio2 - Switch\Ejercicio2 - Switch\obj\Debug\net6.0\Ejercicio2 - Switch.csproj.CoreCompileInputs.cache
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio2 - Switch\Ejercicio2 - Switch\obj\Debug\net6.0\Ejercicio2 - Switch.dll
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio2 - Switch\Ejercicio2 - Switch\obj\Debug\net6.0\refint\Ejercicio2 - Switch.dll
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio2 - Switch\Ejercicio2 - Switch\obj\Debug\net6.0\Ejercicio2 - Switch.pdb
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio2 - Switch\Ejercicio2 - Switch\obj\Debug\net6.0\Ejercicio2 - Switch.genruntimeconfig.cache
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio2 - Switch\Ejercicio2 - Switch\obj\Debug\net6.0\ref\Ejercicio2 - Switch.dll

@@ -1,0 +1,15 @@
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio1 - If\Ejercicio1 - If\bin\Debug\net6.0\Ejercicio1 - If.exe
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio1 - If\Ejercicio1 - If\bin\Debug\net6.0\Ejercicio1 - If.deps.json
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio1 - If\Ejercicio1 - If\bin\Debug\net6.0\Ejercicio1 - If.runtimeconfig.json
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio1 - If\Ejercicio1 - If\bin\Debug\net6.0\Ejercicio1 - If.dll
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio1 - If\Ejercicio1 - If\bin\Debug\net6.0\Ejercicio1 - If.pdb
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio1 - If\Ejercicio1 - If\obj\Debug\net6.0\Ejercicio1 - If.csproj.AssemblyReference.cache
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio1 - If\Ejercicio1 - If\obj\Debug\net6.0\Ejercicio1 - If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio1 - If\Ejercicio1 - If\obj\Debug\net6.0\Ejercicio1 - If.AssemblyInfoInputs.cache
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio1 - If\Ejercicio1 - If\obj\Debug\net6.0\Ejercicio1 - If.AssemblyInfo.cs
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio1 - If\Ejercicio1 - If\obj\Debug\net6.0\Ejercicio1 - If.csproj.CoreCompileInputs.cache
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio1 - If\Ejercicio1 - If\obj\Debug\net6.0\Ejercicio1 - If.dll
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio1 - If\Ejercicio1 - If\obj\Debug\net6.0\refint\Ejercicio1 - If.dll
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio1 - If\Ejercicio1 - If\obj\Debug\net6.0\Ejercicio1 - If.pdb
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio1 - If\Ejercicio1 - If\obj\Debug\net6.0\Ejercicio1 - If.genruntimeconfig.cache
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\C#\5. Bucles II\Ejercicio1 - If\Ejercicio1 - If\obj\Debug\net6.0\ref\Ejercicio1 - If.dll
