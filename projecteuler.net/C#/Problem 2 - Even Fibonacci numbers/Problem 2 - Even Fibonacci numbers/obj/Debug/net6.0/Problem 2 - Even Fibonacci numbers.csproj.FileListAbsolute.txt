@@ -1,0 +1,15 @@
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\projecteuler.net\C#\Problem 2 - Even Fibonacci numbers\Problem 2 - Even Fibonacci numbers\bin\Debug\net6.0\Problem 2 - Even Fibonacci numbers.exe
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\projecteuler.net\C#\Problem 2 - Even Fibonacci numbers\Problem 2 - Even Fibonacci numbers\bin\Debug\net6.0\Problem 2 - Even Fibonacci numbers.deps.json
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\projecteuler.net\C#\Problem 2 - Even Fibonacci numbers\Problem 2 - Even Fibonacci numbers\bin\Debug\net6.0\Problem 2 - Even Fibonacci numbers.runtimeconfig.json
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\projecteuler.net\C#\Problem 2 - Even Fibonacci numbers\Problem 2 - Even Fibonacci numbers\bin\Debug\net6.0\Problem 2 - Even Fibonacci numbers.dll
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\projecteuler.net\C#\Problem 2 - Even Fibonacci numbers\Problem 2 - Even Fibonacci numbers\bin\Debug\net6.0\Problem 2 - Even Fibonacci numbers.pdb
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\projecteuler.net\C#\Problem 2 - Even Fibonacci numbers\Problem 2 - Even Fibonacci numbers\obj\Debug\net6.0\Problem 2 - Even Fibonacci numbers.csproj.AssemblyReference.cache
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\projecteuler.net\C#\Problem 2 - Even Fibonacci numbers\Problem 2 - Even Fibonacci numbers\obj\Debug\net6.0\Problem 2 - Even Fibonacci numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\projecteuler.net\C#\Problem 2 - Even Fibonacci numbers\Problem 2 - Even Fibonacci numbers\obj\Debug\net6.0\Problem 2 - Even Fibonacci numbers.AssemblyInfoInputs.cache
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\projecteuler.net\C#\Problem 2 - Even Fibonacci numbers\Problem 2 - Even Fibonacci numbers\obj\Debug\net6.0\Problem 2 - Even Fibonacci numbers.AssemblyInfo.cs
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\projecteuler.net\C#\Problem 2 - Even Fibonacci numbers\Problem 2 - Even Fibonacci numbers\obj\Debug\net6.0\Problem 2 - Even Fibonacci numbers.csproj.CoreCompileInputs.cache
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\projecteuler.net\C#\Problem 2 - Even Fibonacci numbers\Problem 2 - Even Fibonacci numbers\obj\Debug\net6.0\Problem 2 - Even Fibonacci numbers.dll
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\projecteuler.net\C#\Problem 2 - Even Fibonacci numbers\Problem 2 - Even Fibonacci numbers\obj\Debug\net6.0\refint\Problem 2 - Even Fibonacci numbers.dll
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\projecteuler.net\C#\Problem 2 - Even Fibonacci numbers\Problem 2 - Even Fibonacci numbers\obj\Debug\net6.0\Problem 2 - Even Fibonacci numbers.pdb
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\projecteuler.net\C#\Problem 2 - Even Fibonacci numbers\Problem 2 - Even Fibonacci numbers\obj\Debug\net6.0\Problem 2 - Even Fibonacci numbers.genruntimeconfig.cache
+C:\Users\OriaC\Documents\Desarrollo\Aprendizaje\projecteuler.net\C#\Problem 2 - Even Fibonacci numbers\Problem 2 - Even Fibonacci numbers\obj\Debug\net6.0\ref\Problem 2 - Even Fibonacci numbers.dll
